@@ -1,0 +1,34 @@
++ One of the important goals of a review article is to identify key research gaps based on what constructs, theories and methods are widely applied in different settings and in what contexts studies have been carried out.
++ Provide directions for future research, serve as a platform for future research.
++ Theoretical models developed as part of literature review studies can be used by both researchers and practitioners as typologies/base/lens in their research studies using quantitative or qualitative methods and/or practice.
+
+I. Methodology and structure of review articles
+1. Domain-based review
+Includes structured review, framework-based review, bibliometric review, hybrid review, review aiming for theory development
+a. Structured review: based on used methods, theories, constructs in the form of tables and figures, readers get insightful information from the data reported and content. Helps understand what kind of methods.
+b. Framework-based review: authors of framework-based reviews have to either develop their own framework or adpot an existing framework.
+c. Bibliometric review: analyse an extensive amount of published research by using statiscal tools.
+d. Hybrid review: at least, 2 different ways.
+e. Review aiming for theory development: develop theoretical models and/or testable hypotheses or propostitions in such theory-building review articles.
+2. Theory-based review: analyse the role of a specific theory in a subject area/field are very useful for both senior and junior researchers. Synthesize and help advancing a body of literature that uses and/or empirically applies a given underlying theory.
+3. Method-based review: synthesize and extend a body of literature that uses an underlying methodology.
+4. Meta analytical review: makes a deep statistical assessment of available data and findings from many previous quantitative studies.
+
+II. Thumb rules and suggestions for developing an impactful review article
+1. Topic selection: authors should not select a very recurrent topic for review when there are already other excellent reviews on the same topic. Important to check thematic novelty on key bibliometric databases such as Google Scholar.
+2. Journal selection criteria, identification of streams and period coverage:
++ researchers tend to select the most well-known bibliographic database, identify potential sources for reviewing.
++ important to keep in mind that journals might not be extremely interested in your review, if it does not cover also articles from your target journal.
+a. Articles search and inclusion criteria using keywords
+A systematic review article can be developed using 40-50, up to 500 or more relevant papers. Authors have to use their knowledge, judgement and experience many times for deciding upon clear selection criteria of ariticles in their sample.
+b. Identification of streams and time period of the review
+Identify the main substreams of research conducted in the past on a wider topic or even an entire discipline.
+Some reviews cover just (or less than) 10 years while there are other reviews covering up to 50 years or more of prior research in the field.
+3. Appropriate title
+4. Research gaps and importance of direction for future research
+Identify key research gaps in a good review article based upon a thorough coverage of prior research.
+5. Tables/figures
+Authors need to understand well how tables and figures tend to be crafted, designed and/or structured in classic, most downloaded review articles.
+6. Above all: rigor and relevance
+Thoroughly synthesize a signifincant and import research area, good and relevant topics, however they fail to demonstrate.
+IV. Looking back to look forward
